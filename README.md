@@ -11,16 +11,13 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/deepbratt/">
-    ![Linkedin: deepbratt](https://img.shields.io/badge/-deepbratt-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: smondal1volvocars](https://img.shields.io/badge/-smondal1volvocars-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=deepbratt">
-    ![Twitter: deepbratt](https://img.shields.io/twitter/follow/deepbratt?style=social)
+<a href="https://www.instagram.com/smondal1volvocars/">
+    ![Instagram: deepbratt](https://img.shields.io/badge/-smondal1volvocars-000?&logo=Instagram)
 </a>
-<a href="https://www.instagram.com/deepbratt/">
-    ![Instagram: deepbratt](https://img.shields.io/badge/-deepbratt-000?&logo=Instagram)
-</a>
-<a href="https://github.com/deepbratt">
-    ![GitHub: deepbratt](https://img.shields.io/github/followers/deepbratt?label=follow&style=social)
+<a href="https://github.com/smondal1volvocars">
+    ![GitHub: smondal1volvocars](https://img.shields.io/github/followers/smondal1volvocars?label=follow&style=social)
 </a>
 
 &emsp;
@@ -97,22 +94,22 @@
 ## 📈 My GitHub Stats and Activity
 
 
-<a href="https://github.com/deepbratt/">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepbratt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepbratt&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="deepbratt"/>
+<a href="https://github.com/smondal1volvocars/">
+  <img src="https://github-readme-stats.vercel.app/api?username=smondal1volvocars&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smondal1volvocars&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="smondal1volvocars"/>
 
 </a>
-<img alt="deepbratt's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=deepbratt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="deepbratt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepbratt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="smondal1volvocars's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=smondal1volvocars&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="smondal1volvocars's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smondal1volvocars&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
 ### 🔥 Streak Stats
 
-![deepbratt's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=deepbratt&theme=tokyonight)
+![smondal1volvocars's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=smondal1volvocars&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
-<img alt="deepbratt's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=deepbratt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="smondal1volvocars's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=smondal1volvocars&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
-Credit: [deepbratt](https://github.com/deepbratt)
+Credit: [smondal1volvocars](https://github.com/smondal1volvocars)
 Last Edited on: 02/04/2023
