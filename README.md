@@ -90,26 +90,6 @@
 
 
 &emsp;
-
-## 📈 My GitHub Stats and Activity
-
-
-<a href="https://github.com/smondal1volvocars/">
-  <img src="https://github-readme-stats.vercel.app/api?username=smondal1volvocars&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smondal1volvocars&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="smondal1volvocars"/>
-
-</a>
-<img alt="smondal1volvocars's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=smondal1volvocars&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="smondal1volvocars's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smondal1volvocars&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-
-### 🔥 Streak Stats
-
-![smondal1volvocars's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=smondal1volvocars&theme=tokyonight)
-
-### 📊 Contribution Stats
-
-<img alt="smondal1volvocars's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=smondal1volvocars&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
 ------
-Credit: [smondal1volvocars](https://github.com/smondal1volvocars)
+Credit: [Shuvradeb M.](https://github.com/smondal1volvocars)
 Last Edited on: 02/04/2023
